@@ -17,21 +17,9 @@
     •	Sintetizar la informacion del capitulo 5 y 6 del libro “Principios de Circuitos Electricos” de Floyd.
 
 2. MARCO TEORICO
-
-    ![MECATRONICA](https://user-images.githubusercontent.com/116808294/203440162-a7453eb9-b3ff-437d-a2b0-cdeab8fb4517.jpeg)
-    
-    ![MECATRONICA (1)](https://user-images.githubusercontent.com/116808294/203445334-dadd83d7-c2c7-41c7-95a6-040a2b97ab8e.jpeg)
-    
-    ![MECATRONICA (2)](https://user-images.githubusercontent.com/116808294/203446494-3e02bf19-edbd-4046-b084-6f66811f76db.jpeg)
-    
-    ![MECATRONICA (3)](https://user-images.githubusercontent.com/116808294/203447701-49a085fe-f926-42cb-99f3-1e270d739174.jpeg)
-    
-    ![MECATRONICA (4)](https://user-images.githubusercontent.com/116808294/203448641-b5a1d9f0-fed9-4110-8e1a-afb8f1e3607a.jpeg)
-    
-    ![MECATRONICA (5)](https://user-images.githubusercontent.com/116808294/203450231-026d65ad-a061-4bbe-8c27-c3013f95c707.jpeg)
+  
     
     
-
 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS
     
     CAPITULO 11
@@ -203,6 +191,7 @@
     18.	IDENTIFIQUE LAS PARTES DEL CAPACITOR DE DISCO DE CERÁMICA MOSTRADO EN LA VISTA DE CORTE DE LA FIGURA 12-67.  
         
         ![image](https://user-images.githubusercontent.com/116808294/211177271-0f360c7e-b483-4a10-84d4-a59c7356e23e.png)
+        
         ![image](https://user-images.githubusercontent.com/116808294/211177317-b5764689-071b-4fc7-bb65-cbc5e13bb756.png)
 
     SECCIÓN 12–3 CAPACITORES EN SERIE
@@ -298,13 +287,7 @@
 
 5. CONCLUSIONES
 
-    Gracias a la sintetizacion de la información de logro entender de una manera optima las leyes de Kirchhoff y las aplicaciones que estas tienen.
-    
-    Se logro comprender las diferencias que existen entre los circuitos en serie y paralelos, y las formulas que se deben emplear en cada caso.
-    
-    SE reforzo también los conocimientos existentes sobre la ley de OHM ya que fue necesaria para resolver ciertos ejercicios.
-    
-    Se pudo trabajar con calculos de la corriente, voltaje y resistencia totales teniendo en cuenta el tipo de circuito y condiciones, lo cuál fue muy importante de aprender.
+    Realizando este informe se pudo tener presente los temas proporcionados por el libro de Floyd en el capitulo 11 y 12 en el que se topan temas ya más profundos y teóricos en la materia de fundamentos de circuitos electronicos. Fue importante para poder realizar este circuito el hecho de aplicar los conocimientos adquiridos en clase para poder trabajar con ondas sinusoidales, frecuencias, periodos y capacitores.
         
 
 6. BIBLIOGRAFIA
